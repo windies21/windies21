@@ -1,3 +1,9 @@
+loopchain
+- Main contributor (https://github.com/icon-project/loopchain/graphs/contributors)
+- Core Engine Development
+- Blockchain Network Engine Development
+- Team Leading
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=windies21)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
